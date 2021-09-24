@@ -12,7 +12,7 @@ const helpmenu = (wit,wita,wib,tampilTanggal, UserZeeone, tampilHari , limitawal
 	return`╭─❒ *INFO BOT* 
 │❒ ${petik}𝖭𝖺𝗆𝖺 : ${botname}${petik}
 │❒ ${petik}Author : Nayla${petik}
-│❒ ${petik}Recode : Zeeone${petik}
+│❒ ${petik}Recode : Mikey${petik}
 │❒ ${petik}Server : Baileys${petik}
 │❒ ${petik}RAM : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB${petik}
 │❒ ${petik}MCC : ${mcc}${petik}
